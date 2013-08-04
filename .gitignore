@@ -1,0 +1,3 @@
+bin/*.*
+!bin/log4net.dll
+obj/
